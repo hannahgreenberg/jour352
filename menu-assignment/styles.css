@@ -20,6 +20,7 @@ h3 {
   border-bottom: 1px dotted #999;
   color: #B02D37;
   letter-spacing: 1px;
+  text-transform: capitalize;
 }
 
 h5 {
@@ -41,11 +42,54 @@ span {
   font-weight: bold;
 }
 
+span {
+  font-style: italic;
+}
+
 #header {
   text-align: center;
   color: #707876;
   font-weight: normal;
   font-family: "Raleway", sans-serif;
+}
+
+#sides h5 {
+  font-weight: normal;
+  line-height: 3px
+}
+
+#money p{
+  color:#B1C6C1;
+}
+
+#booking p{
+  font-weight:bold;
+}
+
+#toppings p{
+  color:#999;
+  font-style: italic;
+}
+
+#toppings2 {
+  color:#999;
+  font-style: italic;
+}
+
+#money2 p{
+  color:#B1C6C1;
+}
+
+#image img{
+  float: right;
+}
+
+#pricing h5{
+  font-weight: normal;
+}
+
+a {
+  color:#B02D37;
 }
 
 p {
