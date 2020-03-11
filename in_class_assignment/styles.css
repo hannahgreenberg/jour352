@@ -1,0 +1,49 @@
+.container1 {
+display: flex;
+}
+
+.container1 div {
+  flex-grow: 1;
+  background-color: #F5C6D6;
+  min-height: 200px;
+  margin: 10px auto;
+}
+
+.container2 {
+display: flex;
+}
+
+.container2 div{
+  margin: 10px 10px;
+  flex-grow: 1;
+  background-color: #EE2E84;
+  min-height: 200px;
+}
+
+.container3{
+  display: flex;
+}
+
+.container3 div{
+  background-color: #85cfd8;
+  flex-grow: 1;
+  margin: 10px 10px;
+  min-height: 200px;
+}
+
+.container4 {
+  display: flex;
+}
+
+.container4 div{
+  background-color: #8DC63F;
+  flex-grow: 1;
+  margin: 10px 10px;
+  min-height: 200px;
+}
+
+#orange {
+  background-color: #E76E34;
+  min-height: 200px;
+  margin: 10px auto;
+}
