@@ -1,6 +1,6 @@
 #content{
   margin: 0 auto;
-  width: 1000px;
+  width: 80%;
   text-align: left;
 }
 
@@ -21,7 +21,6 @@
   background-color: #cc0000; opacity: 0.9;
   min-height: 55px;
   padding: 7px;
-  width: 1000px;
 }
 
 #content p{
@@ -46,7 +45,7 @@ h1 {
 
 #header img{
   margin: 0 auto;
-  width: 740px;
+  width: 870px;
   max-width: 100%;
 }
 
